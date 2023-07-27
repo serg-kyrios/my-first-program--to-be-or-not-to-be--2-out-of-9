@@ -1,0 +1,16 @@
+.slides {
+  width: 1000px;
+  height: 500px;
+}
+
+img {
+  display: none;
+}
+
+.block {
+  display: block;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
